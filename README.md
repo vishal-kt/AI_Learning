@@ -10,4 +10,3 @@ This repository contains my Python practice as I begin my AI learning journey.
 - Basic Logic Building
 
 More coming soon.
-s
